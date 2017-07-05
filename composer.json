@@ -1,0 +1,9 @@
+{
+    "name": "lxb/bobo",
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+    		"XingBolv\\model\\":""
+    	}
+    }
+}
